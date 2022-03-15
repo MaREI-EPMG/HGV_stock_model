@@ -3,6 +3,8 @@ This HGV_stock_model describes the turnover of the Heavy Goods Vehicle (HGV) sec
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
+The report that describes and accompanies this model will be shared shortly when finalised.
+
 For any questions please contact b.ogallachoir@ucc.ie
 
 
